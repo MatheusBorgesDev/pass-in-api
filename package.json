@@ -2,7 +2,7 @@
   "name": "server-node",
   "version": "1.0.0",
   "description": "O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**.",
-  "main": "index.js",
+  "main": "server.ts",
   "scripts": {
     "start": "node dist/server.mjs",
     "build": "tsup src --format esm",
